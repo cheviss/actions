@@ -1,11 +1,11 @@
-**中文** | [英文](https://github.com/1980490718/Actions-OpenWrt/blob/main/README_EN.md)
+**中文** | [English](https://github.com/1980490718/Actions-OpenWrt/blob/main/README_EN.md)
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
-使用GitHub Actions构建OpenWrt的模板
+使用GitHub Actions模版构建OpenWrt固件
 
 ## 用法
 
@@ -18,7 +18,7 @@
 
 ## 提示
 
-- 创建文件并构建 OpenWrt 固件可能需要很长时间。因此，在创建仓库构建自己的固件之前，你可以通过在 [search `Actions-Openwrt` in GitHub](https://github.com/search?q=Actions-openwrt)。
+- 创建文件并构建 OpenWrt 固件可能需要很长时间。因此，在创建仓库构建自己的固件之前，你可以通过在 [在GitHub中搜索`Actions-Openwrt`](https://github.com/search?q=Actions-openwrt)。
 - 来查看其他人是否已经构建了符合你需求的固件。.config在你的仓库介绍中添加一些你构建的固件的元信息（比如固件架构和已安装的软件包），这样可以节省其他人的时间。
 
 ## Credits
